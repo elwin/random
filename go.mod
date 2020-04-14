@@ -1,3 +1,3 @@
-module random
+module github.com/elwin/random
 
 go 1.14
